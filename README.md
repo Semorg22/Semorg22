@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi, I'm Sebastian 👋🏻👨🏻‍💻
+
+I'm a Systems Engineer who is passionate about developing software, web and mobile apps.
 
 <!--
 **Semorg22/Semorg22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
