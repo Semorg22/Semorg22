@@ -4,6 +4,10 @@ I'm a Systems Engineer who is passionate about developing software, web and mobi
 
 ✨I enjoy the challenge of continuous learning✨
 
+----------------------------------------------------------------
+
+🔭I’m currently learning Flutter and working on my own website😎🏆
+
 <!--
 **Semorg22/Semorg22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
