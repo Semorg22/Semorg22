@@ -1,6 +1,12 @@
 # Hi, I'm Sebastian 👋🏻👨🏻‍💻
 
-I'm a Systems Engineer who is passionate about developing software, web and mobile apps⚡.
+I'm a Systems engineer with experience in the design, development, and implementation of web and mobile applications⚡
+
+🌱Competent in using technologies and frameworks such as Java, Flutter, React, and C#.
+
+🌱Competent in database management with MySQL and Microsoft SQL Server, and experienced in using agile methodologies like Scrum.
+
+🔭I have the ability to learn and adapt quickly, work well in a team, propose ideas, solve challenges, and a strong interest in mobile development.
 
 ✨I enjoy the challenge of continuous learning✨
 
