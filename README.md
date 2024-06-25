@@ -8,6 +8,8 @@ I'm a Systems engineer with experience in the design, development, and implement
 
 🔭I have the ability to learn and adapt quickly, work well in a team, propose ideas, solve challenges, and a strong interest in mobile development.
 
+----------------------------------------------------------------
+
 ✨I enjoy the challenge of continuous learning✨
 
 ----------------------------------------------------------------
