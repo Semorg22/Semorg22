@@ -14,6 +14,8 @@ I'm a Systems engineer with experience in the design, development, and implement
 
 🔭I’m currently learning Flutter and working on my own website😎🏆
 
+👨🏻‍💻Open to work!
+
 <!--
 **Semorg22/Semorg22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
