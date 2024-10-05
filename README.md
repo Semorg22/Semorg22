@@ -1,12 +1,10 @@
 # Hi, I'm Sebastian 👋🏻👨🏻‍💻
 
-I'm a Systems engineer with experience in the design, development, and implementation of web and mobile applications⚡
+⚡ I'm a Systems Engineer with experience in the design, development, and implementation of software, web, and mobile applications and use of agile methodologies.
 
-🌱Competent in using technologies and frameworks such as Java, Flutter, React, and C#.
+🌱 I have worked extensively with technologies such as Java and Flutter, while gaining foundational knowledge in JavaScript, PHP, Golang, React JS, and C#. I am also proficient in managing databases with PostgreSQL, Microsoft SQL Server, and MySQL.
 
-🌱Competent in database management with MySQL and Microsoft SQL Server, and experienced in using agile methodologies like Scrum.
-
-🔭I have the ability to learn and adapt quickly, work well in a team, propose ideas, solve challenges, and a strong interest in mobile development.
+🔭 My ability to quickly adapt and learn new technologies has allowed me to contribute to various projects, while also emphasizing the importance of collaboration, continuous improvement, and delivering high-quality solutions across different environments.
 
 ----------------------------------------------------------------
 
@@ -14,9 +12,7 @@ I'm a Systems engineer with experience in the design, development, and implement
 
 ----------------------------------------------------------------
 
-🔭I’m currently learning Flutter and working on my own website😎🏆
-
-👨🏻‍💻Open to work!
+👨🏻‍💻Open to work!🔭
 
 <!--
 **Semorg22/Semorg22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
